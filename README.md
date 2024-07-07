@@ -15,7 +15,7 @@
 
 # File name: open-sourced-llms-Phi-3-mini-128k-instruct.ipynb
 #### Running Open-Sourced LLMs Locally with hugging face
-#### Generate results from the documen
+#### Generate results from the document
 
 
 
