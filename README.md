@@ -9,3 +9,8 @@
 #### Running Open-Sourced LLMs Locally with hugging face
 #### Generate results from the document
 
+# File name: Open_sourced_LLMs_Mistral_7B_Instruct_v0.1.ipynb
+#### Running Open-Sourced LLMs Locally with hugging face
+#### Generate results from the document
+
+
